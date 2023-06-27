@@ -1,4 +1,6 @@
 # Chaudhari_Vasishth_CrushingBugs
+![image](https://github.com/vasishth17/Chaudhari_Vasishth_CrushingBugs/assets/121986393/2a5e3369-8fa8-4b54-9385-d03ff2a583d0)
+
 # Drag and Drop Puzzle Game
 
 This is a simple drag and drop puzzle game where players can solve puzzles by dragging and dropping pieces into the correct positions on the puzzle board.
