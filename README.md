@@ -24,5 +24,20 @@ This is a simple drag and drop puzzle game where players can solve puzzles by dr
 - CSS
 - JavaScript
 
-## Project Structure
+## Setup
 
+1. Clone the repository or download the project files.
+2. Open the `index.html` file in a web browser.
+3. Start playing the puzzle game!
+
+Feel free to modify the code and customize the game according to your needs.
+
+## Credits
+
+This project was created by [Your Name].
+
+Special thanks to [Credits for any external resources or tutorials used].
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
