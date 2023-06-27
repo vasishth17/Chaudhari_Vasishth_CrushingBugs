@@ -31,9 +31,8 @@ function handleDrop(e) {
     e.preventDefault();
     console.log("dropped something on me");
 
-    // Check if the drop zone already contains a puzzle piece
     if (this.firstChild) {
-        return; // Return early if a piece already exists in the drop zone
+        return; 
     }
 
     // Remove any existing puzzle piece from the drop zone
